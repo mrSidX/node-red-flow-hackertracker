@@ -1,4 +1,4 @@
-# node-red-ssh-hackertracker
+# node-red-contrib-ssh-hackertracker
 
 ### PLEASE EXCUSE THE TITLING.... THIS IS A CONTRIB
 
